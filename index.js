@@ -25,11 +25,12 @@ const run = async () => {
     } else {
         clearPage()
         settings = await inquirer.settings()
+
         clearPage()
-        const save = await inquirer.save(settings)
+        await inquirer.save(settings)
     }
 
-    breakTime.start(settings)
+    await breakTime.start(settings)
 }
 
 run()
