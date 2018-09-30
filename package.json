@@ -1,6 +1,6 @@
 {
   "name": "coffee-break-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A good excuse for those who need a break.",
   "main": "index.js",
   "bin": {

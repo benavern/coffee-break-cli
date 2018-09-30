@@ -8,13 +8,9 @@
 
 This is a cli version of the [coffee-break](https://github.com/benavern/coffee-break) I made.
 
-<p align="center">
-  <img alt="Settings" src="/screenshots/Settings.jpeg" />
-<p>
+![Settings](/screenshots/Settings.jpeg)
 
-<p align="center">
-  <img alt="CoffeeTime" src="/screenshots/CoffeeTime.jpeg" />
-<p>
+![CoffeeTime](/screenshots/CoffeeTime.jpeg)
 
 ## Installation
 
